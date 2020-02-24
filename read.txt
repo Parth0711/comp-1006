@@ -1,0 +1,14 @@
+Project One PHP
+Sunday, February 23, 2020
+
+Parth Patel (200443680)
+Jed Bricknell (200416325)
+
+Our group only consisted of the two of us. Both of us were coders and more importantly we resolved many errors we came across. 
+Since we couldn't work on the same file with both computers, we always sat together in order to work on the project.
+Since there was a mac and a dell computers, to avoid problems we just worked on the single pc.
+
+
+
+
+Since we could not figure out how to get the remote host to work, we do not have a heroku link.
